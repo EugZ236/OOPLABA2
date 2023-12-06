@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Graduates>
+  <Graduate>
+    <Id>1</Id>
+    <Name>Олена Петренко</Name>
+    <FaculcyName>123</FaculcyName>
+    <Departament>Комп'ютерні науки</Departament>
+    <Occupation>Хімія</Occupation>
+    <EnterDate>2020-09-01T08:00:00</EnterDate>
+    <EndDate>2024-06-30T15:30:00</EndDate>
+  </Graduate>
+  <Graduate>
+    <Id>2</Id>
+    <Name>Андрій Іванов</Name>
+    <FaculcyName>456</FaculcyName>
+    <Departament>Математика</Departament>
+    <Occupation>Математик</Occupation>
+    <EnterDate>2020-09-02T09:15:00</EnterDate>
+    <EndDate>2024-06-30T14:45:00</EndDate>
+  </Graduate>
+  <Graduate>
+    <Id>3</Id>
+    <Name>Сергій Степанов</Name>
+    <FaculcyName>789</FaculcyName>
+    <Departament>Хімія</Departament>
+    <Occupation>Фінансист</Occupation>
+    <EnterDate>2020-09-01T10:30:00</EnterDate>
+    <EndDate>2024-06-30T16:00:00</EndDate>
+  </Graduate>
+  <Graduate>
+    <Id>4</Id>
+    <Name>Олена Петренко</Name>
+    <FaculcyName>101</FaculcyName>
+    <Departament>Історія</Departament>
+    <Occupation>Історик</Occupation>
+    <EnterDate>2020-09-03T11:45:00</EnterDate>
+    <EndDate>2024-06-30T13:30:00</EndDate>
+  </Graduate>
+  <Graduate>
+    <Id>5</Id>
+    <Name>Віталій Лисенко</Name>
+    <FaculcyName>123</FaculcyName>
+    <Departament>Хімія</Departament>
+    <Occupation>Хімік</Occupation>
+    <EnterDate>2020-09-01T13:00:00</EnterDate>
+    <EndDate>2024-06-30T17:15:00</EndDate>
+  </Graduate>
+  <Graduate>
+    <Id>6</Id>
+    <Name>Оксана Литвиненко</Name>
+    <FaculcyName>404</FaculcyName>
+    <Departament>Психологія</Departament>
+    <Occupation>Психолог</Occupation>
+    <EnterDate>2020-09-02T14:15:00</EnterDate>
+    <EndDate>2024-06-30T12:00:00</EndDate>
+  </Graduate>
+  <Graduate>
+    <Id>7</Id>
+    <Name>Ігор Білов</Name>
+    <FaculcyName>505</FaculcyName>
+    <Departament>Екологія</Departament>
+    <Occupation>Еколог</Occupation>
+    <EnterDate>2020-09-01T15:30:00</EnterDate>
+    <EndDate>2024-06-30T16:45:00</EndDate>
+  </Graduate>
+  <Graduate>
+    <Id>8</Id>
+    <Name>Наталія Король</Name>
+    <FaculcyName>606</FaculcyName>
+    <Departament>Соціологія</Departament>
+    <Occupation>Соціолог</Occupation>
+    <EnterDate>2020-09-03T16:45:00</EnterDate>
+    <EndDate>2024-06-30T14:30:00</EndDate>
+  </Graduate>
+  <Graduate>
+    <Id>9</Id>
+    <Name>Максим Шевченко</Name>
+    <FaculcyName>707</FaculcyName>
+    <Departament>Філософія</Departament>
+    <Occupation>Філософ</Occupation>
+    <EnterDate>2020-09-02T17:45:00</EnterDate>
+    <EndDate>2024-06-30T11:15:00</EndDate>
+  </Graduate>
+  <Graduate>
+    <Id>10</Id>
+    <Name>Ірина Мельник</Name>
+    <FaculcyName>808</FaculcyName>
+    <Departament>Право</Departament>
+    <Occupation>Юрист</Occupation>
+    <EnterDate>2020-09-01T18:00:00</EnterDate>
+    <EndDate>2024-06-30T13:45:00</EndDate>
+  </Graduate>
+</Graduates>
